@@ -39,9 +39,11 @@ This repository contains the following files-
 
 1. `train.py` - Python Script to create the classifier file `svm.pickle`.
 2. `classify.py` - Python Script to test the classifier.
-3. `svm.pickle` - Classifier file for digit recognition.
-4. `number.jpg` - Test image number 1 to test the classifier
-5. `digits.jpg` - Test image numbre 2 to test the classifier
+5. `classify_cam_input.py` - python Script to test the classifier using your web camera as input 
+4. `svm.pickle` - Classifier file for digit recognition.
+5. `imutils.py` - python Script contains required methods and it is self define.
+5. `number.jpg` - Test image number 1 to test the classifier
+6. `digits.jpg` - Test image numbre 2 to test the classifier
 
 ## Usage 
 
